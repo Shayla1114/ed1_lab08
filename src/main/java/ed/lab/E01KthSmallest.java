@@ -1,6 +1,5 @@
 package ed.lab;
 //Shayla De León 1342925
-
 public class E01KthSmallest {
 
     private int count = 0;
