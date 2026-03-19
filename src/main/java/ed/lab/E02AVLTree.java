@@ -1,6 +1,5 @@
 package ed.lab;
 //Shayla De León 1342925
-
 import java.util.Comparator;
 
 public class E02AVLTree<T> {
